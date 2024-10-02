@@ -1,5 +1,5 @@
 # Titanic_Dataset_Analysis
-Perfomed Data Analysis on the Titanic Dataset 
+Perfomed Data Analysis on the Titanic Dataset using Seaborn,Pandas and Matplolib
 
 The Dataset is taken from this website -> https://www.kaggle.com/datasets/yasserh/titanic-dataset
 
